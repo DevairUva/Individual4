@@ -1,4 +1,4 @@
-# Individual4
+<h1 align="center"> # Individual4 </h1>
 Trabalho individual módulo 4 do curso Programadores Cariocas.
 
 
@@ -75,3 +75,12 @@ Tabela Turmas:
 Tabela Alunos:
 
 ![registro alunos](https://user-images.githubusercontent.com/83782674/221931650-e2566409-5072-4943-9315-9435c8eb361e.jpg)
+
+## :wrench: Tecnologias utilizadas
+* SQL SHELL (psql)
+
+## :handshake: Colaboradores
+🧑‍💻 Trabalho autoral de <a href="https://github.com/DevairUva">Devair Martins</a>
+
+## :dart: Status do projeto
+Projeto finalizado.
