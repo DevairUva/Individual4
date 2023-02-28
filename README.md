@@ -53,8 +53,14 @@ Alunos contém um ou vários cursos.
 
 Registros:
 
-imagem 1
-imagem 2
-imagem 3
-imagem 4
+Tabela Resilia:
+![registro resilia](https://user-images.githubusercontent.com/83782674/221931530-64d71d2b-51b3-41aa-a698-592ae3cc3513.jpg)
 
+Tabela Cursos:
+![registro cursos](https://user-images.githubusercontent.com/83782674/221931567-61f59e0e-3568-438b-bf2c-80b511386963.jpg)
+
+Tabela Turmas:
+![registro turmas](https://user-images.githubusercontent.com/83782674/221931598-f65c5152-7b4b-4a66-b4cb-403d791e3a3c.jpg)
+
+Tabela Alunos:
+![registro alunos](https://user-images.githubusercontent.com/83782674/221931650-e2566409-5072-4943-9315-9435c8eb361e.jpg)
