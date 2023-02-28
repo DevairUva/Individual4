@@ -7,10 +7,10 @@ A Resilia está pensando em lançar um novo sistema de acompanhamento e para iss
 Para apoiar nesse sistema recebemos a tarefa de realizar essa modelagem
 e responder algumas perguntas com nosso modelo:
 
-1. Existem outras entidades além dessas três?
+1) Existem outras entidades além dessas três?
 Sim. No modelo criado para a solução deste minimundo, foi criado também a entidade "Resilia".
 
-2. Quais são os principais campos e tipos?
+2) Quais são os principais campos e tipos?
 Entidade Resilia(
   id_resilia serial primary key,
   campus varchar(20) not null
@@ -36,7 +36,7 @@ Entidade Alunos(
   
   
 
-3. Como essas entidades estão relacionadas?
+3) Como essas entidades estão relacionadas?
 
 Segue imagem representando o modelo desde BD:
 
