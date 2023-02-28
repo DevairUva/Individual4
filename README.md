@@ -48,7 +48,7 @@ Cardinalidade:
 
 Resilia pode fornecer um ou vários cursos;
 
-Curso pertence a um e somente um resilia;
+Curso pertence a um e somente um Resilia;
 
 Curso pode produzir uma ou várias turmas;
 
