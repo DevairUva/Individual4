@@ -46,11 +46,16 @@ Segue imagem representando o modelo desde BD:
 
 Cardinalidade:
 
-Resilia pode ter um ou vários cursos;
+Resilia pode fornecer um ou vários cursos;
+
 Curso pertence a um e somente um resilia;
+
 Curso pode produzir uma ou várias turmas;
+
 Turma pertence a um e somente um curso;
+
 Turma contém um ou vários alunos;
+
 Alunos contém um ou vários cursos.
 
 Registros:
